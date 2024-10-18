@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# $${\color{red}Yoko Parks}$$
+# $${\color{red}Yoko} {\color{red}Parks}$$
 
 
 ### _Pronounced_ "yoh-koh"
