@@ -15,10 +15,6 @@
 ### *Full Time Student*. -Part Time Mad Scientist.
 <div></div>
 
-##  About me: 
-
-
-
 ### Programming Languages:
 | Bash Shell Scripting | 8 years |
 | Python | 5 years |
