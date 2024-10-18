@@ -18,8 +18,7 @@
 
 
 
-|Programming Languages|
-| ----------- | ----------- |
+### Programming Languages:
 | Bash Shell Scripting | 8 years |
 | Python | 5 years |
 | Java | 1 month |
