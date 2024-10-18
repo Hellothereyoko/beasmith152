@@ -1,14 +1,14 @@
 
 
-<div align="center">
 
-[![header](https://upload.wikimedia.org/wikipedia/commons/6/6a/BEA_text_logo_%281972%29.svg)](https://bsideportfolio.com)
+
+
 
 </div>
 
 <div align="center">
 
-# $${\color{red}🔩Smith🔩}$$
+# $${\color{red}Yoko Parks}$$
 
 
 ### _Pronounced_ "yoh-koh"
