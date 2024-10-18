@@ -43,7 +43,7 @@ Arch Linux, Debian Linux, UNIX/MAC, Microsoft Windows, Android
 [![header](https://assets-sports-gcp.thescore.com/basketball/team/1564/small_logo.png)](https://inside.ewu.edu/)
 
 ##   $${\color{red}📖 EWU \space Projects🖊}$$ 
-### Most of my repositories are projects for school or are some of my endeavors. Good work is comin'!
+### Most of my repos are projects for university or are some of my endeavors. Good work is comin'!
 
 <p>My GitHub primarily reflects my experimentation with new technologies, hobby projects, and learning endeavors. Please view it as my dedication to research & learning 🧪 rather than a testament of my professional abilities 🦸.</p>
 </div>
